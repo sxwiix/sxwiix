@@ -5,7 +5,7 @@ Hi 👋 My name is Pavel
 * ✉️  You can contact me at [pavlosidorov@mail.ru](mailto:pavlosidorov@mail.ru)
 
 
-[https://www.codewars.com/users/sxwiix](https://www.codewars.com/users/sxwiix/badges/large)
+https://www.codewars.com/users/sxwiix/badges/large
 
 ### Skills
 

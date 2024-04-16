@@ -5,8 +5,9 @@ Hi 👋 My name is Pavel
 * ✉️  You can contact me at [pavlosidorov@mail.ru](mailto:pavlosidorov@mail.ru)
 
 <a href="https://t.me/pavel_iso">
-  <img src="ссылка на значок Telegram" alt="Telegram" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="Telegram" width="50" height="50">
 </a>
+
 
 
 https://www.codewars.com/users/sxwiix/badges/large

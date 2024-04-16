@@ -12,7 +12,7 @@
 
 Codewars: 
 <a href="https://www.codewars.com/users/sxwiix">
-  <img src="https://www.codewars.com/users/sxwiix/badges/micro" alt="CodeWars">
+  <img src="https://www.codewars.com/users/sxwiix/badges/small" alt="CodeWars">
 </a>
 
 

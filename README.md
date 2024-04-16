@@ -11,7 +11,10 @@ Hi 👋 My name is Pavel
 
 
 
-https://www.codewars.com/users/sxwiix/badges/large
+<a href="https://www.codewars.com/users/sxwiix">
+  <img src="https://www.codewars.com/users/sxwiix/badges/large" alt="CodeWars">
+</a>
+
 
 ### Skills
 

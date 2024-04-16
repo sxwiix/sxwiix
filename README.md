@@ -1,7 +1,7 @@
 Hi 👋 My name is Pavel
 ==============================
 
-* 🌍  I'm based in Россия
+* 🌍  I'm based in Russia
 * ✉️  You can contact me at [pavlosidorov@mail.ru](mailto:pavlosidorov@mail.ru)
 
 <a href="https://t.me/pavel_iso">

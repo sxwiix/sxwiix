@@ -4,6 +4,10 @@ Hi 👋 My name is Pavel
 * 🌍  I'm based in Россия
 * ✉️  You can contact me at [pavlosidorov@mail.ru](mailto:pavlosidorov@mail.ru)
 
+<a href="https://t.me/pavel_iso">
+  <img src="ссылка на значок Telegram" alt="Telegram" width="50" height="50">
+</a>
+
 
 https://www.codewars.com/users/sxwiix/badges/large
 

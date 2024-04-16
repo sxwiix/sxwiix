@@ -2,11 +2,6 @@
 <h3 align="center">Backend Developer</h3>
 <br>
 
-<p align="center">
-  My telegram - <a href="https://t.me/pavel_iso">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</p>
 <hr>
 
 Codewars: 
@@ -39,3 +34,7 @@ LeetCode: [![LeetCode user sxwiix](https://img.shields.io/badge/dynamic/json?sty
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/sxwiix"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sxwiix&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://t.me/pavel_iso">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="Telegram" width="50" height="50">
+</a>
+

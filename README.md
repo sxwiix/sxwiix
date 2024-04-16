@@ -5,8 +5,9 @@ Hi 👋 My name is Pavel
 * ✉️  You can contact me at [pavlosidorov@mail.ru](mailto:pavlosidorov@mail.ru)
 
 <a href="https://t.me/pavel_iso">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="Telegram" width="50" height="50">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
 </a>
+
 
 
 

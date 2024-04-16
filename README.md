@@ -1,4 +1,4 @@
-Hi 👋 My name is Pavel Sidorov
+Hi 👋 My name is Pavel
 ==============================
 
 * 🌍  I'm based in Россия

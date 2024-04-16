@@ -30,20 +30,19 @@ LeetCode: [![LeetCode user sxwiix](https://img.shields.io/badge/dynamic/json?sty
 ### Socials
 
 <div style="display: flex; align-items: center;">
-  <p align="left" style="margin-right: 10px;">
-    <a href="https://www.github.com/sxwiix" target="_blank" rel="noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-      </picture>
-    </a>
-  </p>
+  <a href="https://www.github.com/sxwiix" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </picture>
+  </a>
 
-  <a href="https://t.me/pavel_iso">
+  <a href="https://t.me/pavel_iso" style="margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="Telegram" width="32" height="32">
   </a>
 </div>
+
 
 
 

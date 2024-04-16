@@ -2,12 +2,12 @@
 <h3 align="center">Backend Developer</h3>
 <br>
 
-* 🌍  I'm based in Russia
-* ✉️  You can contact me at [pavlosidorov@mail.ru](mailto:pavlosidorov@mail.ru)
+
+* You can contact me at [pavlosidorov@mail.ru](mailto:pavlosidorov@mail.ru)
 * My telegram - <a href="https://t.me/pavel_iso">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
 </a>
-
+<br>
 
 
 

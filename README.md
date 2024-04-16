@@ -3,7 +3,8 @@ Hi 👋 My name is Pavel
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [pavlosidorov@mail.ru](mailto:pavlosidorov@mail.ru)
-
+* My telegram <img src="https://telegram.org/img/t_logo.svg" alt="Telegram" width="50" height="50">
+ -
 <a href="https://t.me/pavel_iso">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
 </a>

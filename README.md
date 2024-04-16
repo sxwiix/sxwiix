@@ -4,6 +4,9 @@ Hi 👋 My name is Pavel
 * 🌍  I'm based in Россия
 * ✉️  You can contact me at [pavlosidorov@mail.ru](mailto:pavlosidorov@mail.ru)
 
+
+https://www.codewars.com/users/sxwiix
+
 ### Skills
 
 

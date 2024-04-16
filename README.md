@@ -13,13 +13,11 @@ LeetCode: [![LeetCode user sxwiix](https://img.shields.io/badge/dynamic/json?sty
 
 <hr>
 
-  
 ### Skills
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
-
 
 ### Socials
 
@@ -37,19 +35,22 @@ LeetCode: [![LeetCode user sxwiix](https://img.shields.io/badge/dynamic/json?sty
   </a>
 </div>
 
-
-
-
-
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sxwiix"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sxwiix&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div style="display: flex; align-items: center;">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sxwiix&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="http://www.github.com/sxwiix" style="margin-right: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sxwiix&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
 
-  </div>
-  <hr>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxwiix&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
+  </a>
+
+</div>
+<hr>
+
 
 

@@ -30,7 +30,7 @@ LeetCode: [![LeetCode user sxwiix](https://img.shields.io/badge/dynamic/json?sty
 ### Socials
 
 <div style="display: flex; align-items: center;">
-  <p align="left">
+  <p align="left" style="margin-right: 10px;">
     <a href="https://www.github.com/sxwiix" target="_blank" rel="noreferrer">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -44,6 +44,7 @@ LeetCode: [![LeetCode user sxwiix](https://img.shields.io/badge/dynamic/json?sty
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="Telegram" width="32" height="32">
   </a>
 </div>
+
 
 
 

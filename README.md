@@ -1,4 +1,4 @@
-Hi 👋 My name is Pavel
+Pavel
 ==============================
 
 * 🌍  I'm based in Russia

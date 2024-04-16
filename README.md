@@ -3,7 +3,6 @@
 <br>
 
 <p align="center">
-  You can contact me at <a href="mailto:pavlosidorov@mail.ru">pavlosidorov@mail.ru</a><br>
   My telegram - <a href="https://t.me/pavel_iso">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
   </a>
